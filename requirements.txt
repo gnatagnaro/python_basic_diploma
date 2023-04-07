@@ -1,0 +1,6 @@
+peewee==3.15.4
+pydantic==1.10.2
+python-dotenv==0.21.0
+requests==2.28.1
+typing-extensions==4.4.0
+urllib3==1.26.13
